@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Analysis
+# Coffee Shop Sales Analysis
 ## __Executive Summary__
 The Coffee Shop Sales Dashboard, developed using Power BI Desktop, delivers a comprehensive analysis of the sales performance of a coffee shop. This dashboard provides key metrics, including total sales, orders, and quantities sold, with detailed breakdowns by time, location, and product category. This analysis is essential for identifying trends and patterns that can guide strategic business decisions.
 
